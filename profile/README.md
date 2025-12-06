@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🐝 Welcome to ELT Hive</h1>
-  <p><strong>The Open Source Ecosystem for English Language Teachers in Türkiye 🇹🇷</strong></p>
+  <p><strong>The Open Source Ecosystem for English Language Teachers in Turkiye</strong></p>
 
   <a href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="https://img.shields.io/badge/license-CC0-green.svg" alt="License: CC0">
