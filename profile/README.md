@@ -14,6 +14,10 @@
 </div>
 
 ---
+## Important!
+
+**ELT Hive** is a project of mine for educational purposes(for my final project).
+
 
 ## Who We Are
 
