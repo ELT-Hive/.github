@@ -26,7 +26,7 @@ Teachers spend hours searching for materials that often need to be recreated fro
 
 ## 📦 Key Projects
 
-### [ELT-Hive/platform](https://github.com/ELT-Hive/platform)
+### [ELT-Hive/platform](https://elthive.istmail.me/)
 
 The core web application that powers the ELT Hive ecosystem.
 
