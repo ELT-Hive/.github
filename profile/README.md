@@ -1,52 +1,45 @@
 <div align="center">
   <h1>🐝 Welcome to ELT Hive</h1>
-  <p><strong>The Open Source Ecosystem for English Language Teachers in Turkiye</strong></p>
+  <p><strong>The Ecosystem for English Language Teachers</strong></p>
 
-  <a href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://img.shields.io/badge/license-CC0-green.svg" alt="License: CC0">
-  </a>
   <a href="https://github.com/ELT-Hive/platform/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
   </a>
-  <a href="https://nextjs.org">
-    <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Supabase-blue" alt="Tech Stack">
+  <a href="https://github.com/ELT-Hive/platform">
+    <img src="https://img.shields.io/badge/Main%20Repo-Platform-blue" alt="Main Repository">
   </a>
 </div>
 
 ---
-## Important!
 
-**ELT Hive** is a project of mine for educational purposes(for my final project).
+## 👋 Who We Are
 
+**ELT Hive** is an initiative dedicated to modernizing how English teachers share, create, and adapt educational materials.
 
-## Who We Are
-
-**ELT Hive** is a community-driven, open-source initiative dedicated to modernizing how K-12 English teachers in **Turkiye** share, create, and adapt educational materials.
-
-We believe that educational resources should be **living documents**, not static files. By using a **CC0 (No Rights Reserved)** license, we ensure that every teacher and developer can freely use, adapt, and build upon this work without restriction.
-
-## Our Mission
+## 🚀 Our Mission
 
 Teachers spend hours searching for materials that often need to be recreated from scratch. We are changing that with a philosophy of **"Download, Create, Fork."**
 
-- **The Archive:** A smart repository for editable materials (.docx, .pptx).
-- **Fork & Remix:** Don't just download; improve a worksheet and share your version back with the community.
-- **Exam Builder:** A "Lego-like" tool to build custom exams from a shared question bank in minutes.
-- **MEB Sync:** Content discovery aligned with the Turkish Ministry of National Education curriculum.
+- **📚 Smart Archive:** A smart repository for editable materials. Features **Deep Search** (by grade, skill, topic) and **Smart Sharing**.
+- **🔄 Fork & Remix:** Don't just download; improve a worksheet and share your version back with the community.
+- **📝 Exam Builder:** A "Lego-like" **Drag-and-Drop** tool to build custom exams. Supports **PDF Generation** in minutes.
 
-## Getting Started
+## 📦 Key Projects
 
-We are currently in the **Alpha / MVP Development** phase.
+### [ELT-Hive/platform](https://github.com/ELT-Hive/platform)
 
-### Main Repository
+The core web application that powers the ELT Hive ecosystem.
 
-- **[ELT-Hive/platform](https://github.com/ELT-Hive/platform)**: The core web application (Frontend + Backend logic).
+- **Platform:** Next.js 16 (App Router), TypeScript, Tailwind CSS v4, shadcn/ui
+- **State & Motion:** Zustand, Framer Motion, GSAP
+- **Backend:** Supabase (Auth, Database, Storage)
+- **Key Features:** Material Management, Exam Builder (@dnd-kit), Smart Search
 
-## How to Contribute
+## 🤝 How to Contribute
 
 We welcome contributions from developers, designers, and teachers!
 
-1.  **Developers:** Help us build the Exam Builder and Remix engine. Check out the `Issues` tab in our platform repo.
+1.  **Developers:** Help us build the Exam Builder and Remix engine. Check out the [Issues](https://github.com/ELT-Hive/platform/issues) in our platform repo.
 2.  **Designers:** We need user-friendly UI/UX for non-tech-savvy teachers.
 3.  **Teachers:** Your feedback on features is invaluable.
 
@@ -54,4 +47,7 @@ Please use **GitHub Discussions** or **Issues** in the platform repository for a
 
 ---
 
-_Built with ❤️ for teachers._
+<div align="center">
+  <i>Built with ❤️ for teachers by teachers.</i><br>
+  <i>This project/site is not affiliated with or endorsed by any educational institution or governing body, and it is for educational purposes only.</i>
+</div>
