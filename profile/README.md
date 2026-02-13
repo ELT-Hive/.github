@@ -14,7 +14,7 @@
 
 ## ATTENTION!
 
-**This project has been  **archive**.
+This project has been  **archive**.
 
 
 ## 👋 Who We Are
